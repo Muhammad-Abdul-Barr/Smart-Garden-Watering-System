@@ -1,0 +1,44 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\Study\3rd Semester\COAL\Project\Garden Moisture IoT\Garden Moisture IoT\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Study\3rd Semester\COAL\Project\Garden Moisture IoT\Garden Moisture IoT\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328pdef.inc</FILE>
+  <FILE>D:\Study\3rd Semester\COAL\Project\Garden Moisture IoT\Garden Moisture IoT\delay_Macro.inc</FILE>
+  <FILE>D:\Study\3rd Semester\COAL\Project\Garden Moisture IoT\Garden Moisture IoT\UART_Macros.inc</FILE>
+  <FILE>D:\Study\3rd Semester\COAL\Project\Garden Moisture IoT\Garden Moisture IoT\div_Macro.inc</FILE>
+  <FILE>D:\Study\3rd Semester\COAL\Project\Garden Moisture IoT\Garden Moisture IoT\1602_LCD_Macros.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Study\3rd Semester\COAL\Project\Garden Moisture IoT\Garden Moisture IoT\Debug\Garden Moisture IoT.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Garden Moisture IoT.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Garden Moisture IoT.map</FILE>
+  <FILE>Garden Moisture IoT.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <hello_string><FILE>D:\Study\3rd Semester\COAL\Project\Garden Moisture IoT\Garden Moisture IoT\main.asm</FILE><LINE>15</LINE></hello_string>
+  <len><FILE>D:\Study\3rd Semester\COAL\Project\Garden Moisture IoT\Garden Moisture IoT\main.asm</FILE><LINE>16</LINE></len>
+  <hello_string2><FILE>D:\Study\3rd Semester\COAL\Project\Garden Moisture IoT\Garden Moisture IoT\main.asm</FILE><LINE>18</LINE></hello_string2>
+  <len2><FILE>D:\Study\3rd Semester\COAL\Project\Garden Moisture IoT\Garden Moisture IoT\main.asm</FILE><LINE>19</LINE></len2>
+  <high_string><FILE>D:\Study\3rd Semester\COAL\Project\Garden Moisture IoT\Garden Moisture IoT\main.asm</FILE><LINE>21</LINE></high_string>
+  <len3><FILE>D:\Study\3rd Semester\COAL\Project\Garden Moisture IoT\Garden Moisture IoT\main.asm</FILE><LINE>22</LINE></len3>
+  <low_string><FILE>D:\Study\3rd Semester\COAL\Project\Garden Moisture IoT\Garden Moisture IoT\main.asm</FILE><LINE>24</LINE></low_string>
+  <len4><FILE>D:\Study\3rd Semester\COAL\Project\Garden Moisture IoT\Garden Moisture IoT\main.asm</FILE><LINE>25</LINE></len4>
+  <mainloop><FILE>D:\Study\3rd Semester\COAL\Project\Garden Moisture IoT\Garden Moisture IoT\main.asm</FILE><LINE>66</LINE></mainloop>
+  <wait_conversion><FILE>D:\Study\3rd Semester\COAL\Project\Garden Moisture IoT\Garden Moisture IoT\main.asm</FILE><LINE>90</LINE></wait_conversion>
+  <TURN_OFF_LED><FILE>D:\Study\3rd Semester\COAL\Project\Garden Moisture IoT\Garden Moisture IoT\main.asm</FILE><LINE>112</LINE></TURN_OFF_LED>
+  <TURN_ON_LED><FILE>D:\Study\3rd Semester\COAL\Project\Garden Moisture IoT\Garden Moisture IoT\main.asm</FILE><LINE>121</LINE></TURN_ON_LED>
+  <continue><FILE>D:\Study\3rd Semester\COAL\Project\Garden Moisture IoT\Garden Moisture IoT\main.asm</FILE><LINE>131</LINE></continue>
+ </LABELS>
+</ASSEMBLER_INFO>
